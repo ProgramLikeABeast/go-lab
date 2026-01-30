@@ -1,0 +1,12 @@
+go 1.25.6
+
+use (
+	./concurrency
+	./defer-panic
+	./errors
+	./greetings
+	./hello
+	./interfaces
+	./slices
+	./structs
+)
